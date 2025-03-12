@@ -1,0 +1,10 @@
+  
+  print("mohamed's change ")
+
+  names =["ahmed","hamada","kareem","ali"]
+
+  for i in names 
+       print(i)
+
+
+  print("i have added our names ")
